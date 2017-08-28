@@ -52,7 +52,7 @@ class EMChimp_Admin {
 					$html.='<tbody>';
 						$html.='<tr>';
 							$html.='<th scope="row"><label for="listid">List ID</label></th>';
-							$html.='<td><input name="emchimp_send_campaign[listid]" type="text" id="listid" value="c667b1b26e" class="regular-text code"></td>';
+							$html.='<td><input name="emchimp_send_campaign[listid]" type="text" id="listid" value="" class="regular-text code"></td>';
 						$html.='</tr>';
 						
 						$html.='<tr>';
@@ -62,7 +62,7 @@ class EMChimp_Admin {
 						
 						$html.='<tr>';
 							$html.='<th scope="row"><label for="templateid">Template ID</label></th>';
-							$html.='<td><input name="emchimp_send_campaign[templateid]" type="text" id="templateid" value="317197" class="regular-text code"></td>';
+							$html.='<td><input name="emchimp_send_campaign[templateid]" type="text" id="templateid" value="" class="regular-text code"></td>';
 						$html.='</tr>';	
 						
 						$html.='<tr>';
