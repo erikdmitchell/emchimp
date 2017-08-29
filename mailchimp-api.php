@@ -24,7 +24,7 @@ class EMChimp_MailChimp_API {
 	 
 	    // Configure --------------------------------------
 	 
-	    $api_key = 'dc324baaef234ce617947398ae272b77-us11';
+	    $api_key=emchimp()->settings['apikey'];
 	 
 	    // STOP Configuring -------------------------------
 	 
